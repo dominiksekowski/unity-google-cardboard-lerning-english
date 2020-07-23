@@ -7,6 +7,7 @@
 | ---------- | ---------- | 
 | Alt + Mouse | Move The Camera | 
 | Left Mouse Button | Interact With Objects |
+| 2 x Left Mouse Button | Play Animations |
 ## A mobile application for learning English using the Google Cardboard platform.
 
 The subject of the work done is to create a 3D mobile application for learning English based on objects and animations prepared by hand. The application uses virtual reality technology using the Google Cardboard platform for proper operation. 
